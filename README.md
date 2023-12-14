@@ -62,7 +62,7 @@ Compilamos el modelo con el optimizador Adam y la pérdida de entropía cruzada 
 
 Para crear las metricas utilizamos lo siguiente :  
 ```
-model. compile(optimizer = 'adam', loss = 'categorical_crossentropy', metrics = ['accuracy', tf.keras.metrics.Precision(), tf.keras metrics.Recall()]) 
+model.compile(optimizer = 'adam', loss = 'categorical_crossentropy', metrics = ['accuracy', tf.keras.metrics.Precision(), tf.keras metrics.Recall()]) 
 ```
  
 
