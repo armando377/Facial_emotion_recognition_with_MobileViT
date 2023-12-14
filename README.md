@@ -1,1 +1,1 @@
-# Facial_emotion_recognition_with_MobileViT
+# Facial emotion recognition with MobileViT
